@@ -31,7 +31,7 @@ en snapshot comprobaremos si realmente esta todo correcto
 
 ![movil1](https://github.com/RichardEnriquez/PracticaFlutter/blob/master/imagenes/movil1.png)
 
-![movil2](https://github.com/RichardEnriquez/PracticaFlutter/blob/master/imagenes/movil2-1588518992365.png)
+![movil2](https://github.com/RichardEnriquez/PracticaFlutter/blob/master/imagenes/movil2.png)
 
 Para poder lograr una nueva pantalla tuve que averiguar como crear Widget Personalizado:
 
